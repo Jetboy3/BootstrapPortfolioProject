@@ -91,3 +91,10 @@ footer {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+.carousel-caption ul li {
+  list-style: none;
+}
+
+.col-md-4 p{
+  text-align: center;
+}
